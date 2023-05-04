@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+<table style="width:100%">
+<div ng-app ="my app" ng-controller="Person ctrl">
+<tr>
+<td>first name:<input type ="text ngmodel="first name" </td>
+</tr>
+<tr>
+<td>last name:<input type ="text" ng-model =last name </td></tr>
+<tr>
+<td>Name:{{Name}}</td>
+</tr>
+</div>
+<script 
+Varapp = angular=modu<td>Name:{{Name}}</td>
+</tr>
+</div>
+<script 
+Varapp = angular=modu<td>Name:{{Name}}</td>
+</tr>
+</div>
+<script 
+Varapp = angular=modu<td>Name:{{Name}}</td>
+</tr>
+</div>
+<script 
+Varapp = angular=modu<td>Name:{{Name}}</td>
+</tr>
+</div>
+<script 
+Varapp = angular=modu<td>Name:{{Name}}</td>
+</tr>
+</div>
+<script 
+Varapp = angular=modu<td>Name:{{Name}}</td>
+</tr>
+</div>
+<script 
+Varapp = angular=modu<td>Name:{{Name}}</td>
+</tr>
+</div>
+<script 
+Varapp = angular=modu

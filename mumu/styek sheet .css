@@ -1,0 +1,15 @@
+body{
+background-color: rgb(222, 146, 48);
+}
+.top-cantainer{
+    padding: 50px,50px;
+    background-color: black;
+    text-align: center;
+    margin: 100px;
+}
+.heal{
+    text-align: center;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}

@@ -1,0 +1,85 @@
+body{
+  background-color: white;
+}
+.a{
+    float: right;
+    margin-right: 50px;
+    border-radius: 20px;
+    background-color:#cce6ff;
+}
+.b{
+    float: right;
+    margin-right: 50px;
+    padding: 10px,10px;
+    background-color:#cce6ff;
+    border-radius: 20px;
+}
+.c{
+    float: right;
+    margin-right: 50px;
+    padding: 10px,10px;
+    background-color:#cce6ff;
+    border-radius: 20px;
+
+}
+.top{
+  width: 100%;
+  background-color: white;
+  padding: auto;
+  overflow: auto;
+  position: relative;
+}
+.top a{
+    padding: 5px;
+    text-decoration:none;
+    text-decoration-color: orangered;
+    font-size: 17px;
+    margin: 5px;
+    color: black;
+}
+.top a:hover {
+    background-color:white;
+}
+.top placeholder{
+    background-color: black;
+}
+.nav{
+  float: left;
+  height: 3000px;
+  background: #003cb3;
+  padding:0px;
+  width: 10%;
+  position: fixed;
+}
+.nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+.nav li{
+  text-align: auto;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+#bar{
+  float: right;
+  overflow: auto;
+  padding: auto;
+  margin-right: 10px;
+  width: 88%;
+  margin-top: 5px;
+
+}
+#tc{
+  float: right;
+  background-color: blue;
+  overflow: auto;
+  padding: auto;
+  margin-right: 10px;
+  width: 88%;
+  margin-top: 10px;
+} 
+.tcantainer h{
+  padding: 20px;;
+}
